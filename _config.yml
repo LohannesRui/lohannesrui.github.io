@@ -104,4 +104,4 @@ theme: landscape
 deploy:
   type: git
   repo: https://github.com/izjr/izjr.github.io.git
-  branch: main
+  branch: master
