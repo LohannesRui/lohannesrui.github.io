@@ -3,12 +3,12 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
+title: Lohannes
 subtitle: ''
-description: ''
+description: '我的灵魂存在生活只是为了祂。'
 keywords:
-author: John Doe
-language: en
+author: LohannesRui
+language: zh-CN
 timezone: ''
 
 # URL
@@ -97,7 +97,7 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: landscape
+theme: next
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
