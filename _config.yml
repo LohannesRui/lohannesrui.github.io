@@ -14,7 +14,7 @@ timezone: Asia/Shanghai
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
 url: http://lohannes.top/
-permalink: :year/:month/:day/:title/
+permalink: :category/:url/
 permalink_defaults:
 pretty_urls:
   trailing_index: true # Set to false to remove trailing 'index.html' from permalinks
@@ -67,7 +67,17 @@ index_generator:
 # Category & Tag
 default_category: uncategorized
 category_map:
+  天主教: catholicism
+  圣经: bible
+  旧约: old-testament
+  新约: new-testament
 tag_map:
+  玛: Mt
+  谷: Mk
+  路: Lk
+  若: Jn
+  福音书: gospels
+  金句精选: selected-quotes
 
 # Metadata elements
 ## https://developer.mozilla.org/en-US/docs/Web/HTML/Element/meta
