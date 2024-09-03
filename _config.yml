@@ -4,16 +4,16 @@
 
 # Site
 title: Lohannes
-subtitle: ''
-description: ''
+subtitle: '若望的博客'
+description: '应常欢乐  不断祈祷  事事感谢'
 keywords:
-author: LohannesRui
+author: '若  望'
 language: zh-CN
-timezone: ''
+timezone: Asia/Shanghai
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: http://example.com
+url: http://lohannes.top/
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
@@ -40,7 +40,7 @@ external_link:
   exclude: ''
 filename_case: 0
 render_drafts: false
-post_asset_folder: false
+post_asset_folder: true
 relative_link: false
 future: true
 syntax_highlighter: highlight.js
@@ -104,3 +104,9 @@ deploy:
   type: git
   repo: https://github.com/LohannesRui/lohannesrui.github.io
   branch: master
+
+search:
+  path: search.xml
+  field: post
+  content: true
+  format: html
