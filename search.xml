@@ -2,7 +2,7 @@
 <search>
   <entry>
     <title>Hello World</title>
-    <url>/uncategorized/undefined/</url>
+    <url>/uncategorized/hello%20world/</url>
     <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
 <h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
 
@@ -167,38 +167,6 @@
       </tags>
   </entry>
   <entry>
-    <title>马尔谷福音 金句精选</title>
-    <url>/catholicism/bible/new-testament/select-Mk/</url>
-    <content><![CDATA[<p><strong>谷&emsp;1：11</strong>&emsp;&emsp;你是我的爱子，我因你而喜悦。</p>
-<p><strong>谷&emsp;1：15</strong>&emsp;&emsp;时期已满，天主的国临近了，你们悔改，信从福音罢！</p>
-<p><strong>谷&emsp;1：35</strong>&emsp;&emsp;清晨，天还很黑，耶稣就起身出去，到荒野的地方，在那里祈祷。</p>
-<p><strong>谷&emsp;2：22</strong>&emsp;&emsp;新酒应装在新皮囊里。</p>
-<p><strong>谷&emsp;2：27-28</strong>&emsp;&emsp;安息日是为人立的，并不是人为了安息日；所以，人子也是安息日的主。</p>
-<span id="more"></span>
-<p><strong>谷&emsp;3：13-14</strong>&emsp;&emsp;随后，耶稣上了山，把自己所想要的人召来，他们便来到他面前。他就选定了十二人，为同他常在一起，并为派遣他们去宣讲。</p>
-<p><strong>谷&emsp;5：36</strong>&emsp;&emsp;不要怕，只管信。</p>
-<p><strong>谷&emsp;8：31</strong>&emsp;&emsp;人子必须受许多苦，被长老、司祭长和经师弃绝，且要被杀害；但三天以后必要复活。</p>
-<p><strong>谷&emsp;8：33</strong>&emsp;&emsp;撒殚，退到我后面去！因为你所体会的，不是天主的事，而是人的事。</p>
-<p><strong>谷&emsp;9：23</strong>&emsp;&emsp;为信的人，一切都是可能的！</p>
-<p><strong>谷&emsp;10：27</strong>&emsp;&emsp;在人不可能……在天主，一切都是可能的。</p>
-<p><strong>谷&emsp;10：29-30</strong>&emsp;&emsp;人为了我，为了福音，而舍弃了房屋、或兄弟、或姊妹、或母亲、或父亲、或儿女、或田地，没有不在今时就得百倍的房屋、兄弟、姊妹、母亲、儿女、田地──连迫害也在内，并在来世获得永生的。</p>
-<p><strong>谷&emsp;10：45</strong>&emsp;&emsp;人子，不是来受服事，而是来服事人，并交出自己的性命，为大众作赎价。</p>
-<p><strong>谷&emsp;11：24</strong>&emsp;&emsp;你们祈祷，不论求什么，只要你们相信必得，必给你们成就。</p>
-<p><strong>谷&emsp;13：31</strong>&emsp;&emsp;天地要过去，但是我的话决不会过去。</p>
-<p><strong>谷&emsp;16：15-16</strong>&emsp;&emsp;你们往普天下去，向一切受造物宣传福音，信而受洗的必要得救。</p>
-]]></content>
-      <categories>
-        <category>天主教</category>
-        <category>圣经</category>
-        <category>新约</category>
-      </categories>
-      <tags>
-        <tag>福音书</tag>
-        <tag>金句精选</tag>
-        <tag>谷</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>玛窦福音 金句精选</title>
     <url>/catholicism/bible/new-testament/select-Mt/</url>
     <content><![CDATA[<p><strong>玛&emsp;1：21</strong>&emsp;&emsp;她要生一个儿子，你要给他起名叫耶稣，因为他要把自己的民族，由他们的罪恶中拯救出来。</p>
@@ -274,6 +242,38 @@
         <tag>福音书</tag>
         <tag>金句精选</tag>
         <tag>玛</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>马尔谷福音 金句精选</title>
+    <url>/catholicism/bible/new-testament/select-Mk/</url>
+    <content><![CDATA[<p><strong>谷&emsp;1：11</strong>&emsp;&emsp;你是我的爱子，我因你而喜悦。</p>
+<p><strong>谷&emsp;1：15</strong>&emsp;&emsp;时期已满，天主的国临近了，你们悔改，信从福音罢！</p>
+<p><strong>谷&emsp;1：35</strong>&emsp;&emsp;清晨，天还很黑，耶稣就起身出去，到荒野的地方，在那里祈祷。</p>
+<p><strong>谷&emsp;2：22</strong>&emsp;&emsp;新酒应装在新皮囊里。</p>
+<p><strong>谷&emsp;2：27-28</strong>&emsp;&emsp;安息日是为人立的，并不是人为了安息日；所以，人子也是安息日的主。</p>
+<span id="more"></span>
+<p><strong>谷&emsp;3：13-14</strong>&emsp;&emsp;随后，耶稣上了山，把自己所想要的人召来，他们便来到他面前。他就选定了十二人，为同他常在一起，并为派遣他们去宣讲。</p>
+<p><strong>谷&emsp;5：36</strong>&emsp;&emsp;不要怕，只管信。</p>
+<p><strong>谷&emsp;8：31</strong>&emsp;&emsp;人子必须受许多苦，被长老、司祭长和经师弃绝，且要被杀害；但三天以后必要复活。</p>
+<p><strong>谷&emsp;8：33</strong>&emsp;&emsp;撒殚，退到我后面去！因为你所体会的，不是天主的事，而是人的事。</p>
+<p><strong>谷&emsp;9：23</strong>&emsp;&emsp;为信的人，一切都是可能的！</p>
+<p><strong>谷&emsp;10：27</strong>&emsp;&emsp;在人不可能……在天主，一切都是可能的。</p>
+<p><strong>谷&emsp;10：29-30</strong>&emsp;&emsp;人为了我，为了福音，而舍弃了房屋、或兄弟、或姊妹、或母亲、或父亲、或儿女、或田地，没有不在今时就得百倍的房屋、兄弟、姊妹、母亲、儿女、田地──连迫害也在内，并在来世获得永生的。</p>
+<p><strong>谷&emsp;10：45</strong>&emsp;&emsp;人子，不是来受服事，而是来服事人，并交出自己的性命，为大众作赎价。</p>
+<p><strong>谷&emsp;11：24</strong>&emsp;&emsp;你们祈祷，不论求什么，只要你们相信必得，必给你们成就。</p>
+<p><strong>谷&emsp;13：31</strong>&emsp;&emsp;天地要过去，但是我的话决不会过去。</p>
+<p><strong>谷&emsp;16：15-16</strong>&emsp;&emsp;你们往普天下去，向一切受造物宣传福音，信而受洗的必要得救。</p>
+]]></content>
+      <categories>
+        <category>天主教</category>
+        <category>圣经</category>
+        <category>新约</category>
+      </categories>
+      <tags>
+        <tag>福音书</tag>
+        <tag>金句精选</tag>
+        <tag>谷</tag>
       </tags>
   </entry>
 </search>
