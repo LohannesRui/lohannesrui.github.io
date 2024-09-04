@@ -119,11 +119,12 @@ deploy:
   repo: https://github.com/LohannesRui/lohannesrui.github.io
   branch: master
 
+# hexo-generator-searchdb
 search:
-  path: search.xml
-  field: post
+  path: search.json
+  field: all
   content: true
-  format: html
+  format: striptags
 
 # Markdown-it config
 ## Docs: https://github.com/celsomiranda/hexo-renderer-markdown-it/wiki
@@ -165,3 +166,14 @@ markdown:
     prepend_root: false
     post_asset: false
   inline: false  # https://markdown-it.github.io/markdown-it/#MarkdownIt.renderInline
+
+# Post wordcount display settings
+# Dependencies: https://github.com/next-theme/hexo-word-counter
+symbols_count_time:
+  symbols: true
+  time: true
+  total_symbols: true
+  total_time: true
+  exclude_codeblock: false
+  wpm: 300
+  suffix: "mins."
