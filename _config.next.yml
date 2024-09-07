@@ -98,9 +98,12 @@ open_graph:
 menu:
   home: / || fa fa-home
   #about: /about/ || fa fa-user
-  tags: /tags/ || fa fa-tags
-  categories: /categories/ || fa fa-th
-  archives: /archives/ || fa fa-archive
+  #tags: /tags/ || fa fa-tags
+  #categories: /categories/ || fa fa-th
+  #archives: /archives/ || fa fa-archive
+  圣经: /categories/catholicism/bible/ || fa fa-bible
+  祈祷: /categories/catholicism/pray/ || fa fa-pray
+  曲谱: https://lohannes.top/player/player.html || fa fa-music
   #schedule: /schedule/ || fa fa-calendar
   #sitemap: /sitemap.xml || fa fa-sitemap
   #commonweal: /404/ || fa fa-heartbeat
