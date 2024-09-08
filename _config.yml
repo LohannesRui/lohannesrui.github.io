@@ -83,6 +83,8 @@ tag_map:
   福音书: gospels
   金句精选: selected-quotes
   圣龛中的呼声: voices-in-the-tabernacle
+  未完成: unfinished
+  未校验: unverified
 
 # Metadata elements
 ## https://developer.mozilla.org/en-US/docs/Web/HTML/Element/meta
