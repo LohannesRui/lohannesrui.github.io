@@ -107,8 +107,8 @@ menu:
   #archives: /archives/ || fa fa-archive
   圣经: /categories/catholicism/bible/ || fa fa-bible
   祈祷: /categories/catholicism/pray/ || fas fa-dove
-  音乐: https://lohannes.top/music/ || fas fa-compact-disc
-  曲谱: https://lohannes.top/player/player.html || fas fa-music
+  音乐: /music/ || fas fa-compact-disc
+  曲谱: /player/player.html || fas fa-music
   #schedule: /schedule/ || fa fa-calendar
   #sitemap: /sitemap.xml || fa fa-sitemap
   #commonweal: /404/ || fa fa-heartbeat

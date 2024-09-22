@@ -28,7 +28,9 @@ archive_dir: archives
 category_dir: categories
 code_dir: downloads/code
 i18n_dir: :lang
-skip_render:
+skip_render: 
+  - music/**/*
+  - player/**/*
 
 # Writing
 new_post_name: :title.md # File name of new posts
@@ -169,4 +171,3 @@ markdown:
     prepend_root: false
     post_asset: false
   inline: false  # https://markdown-it.github.io/markdown-it/#MarkdownIt.renderInline
-
